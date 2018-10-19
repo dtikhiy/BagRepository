@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BagRepository_Example' do
+  pod 'BagRepository', :path => '../'
+
+  target 'BagRepository_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
