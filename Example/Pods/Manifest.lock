@@ -1,0 +1,16 @@
+PODS:
+  - BagRepository (0.1.0)
+
+DEPENDENCIES:
+  - BagRepository (from `../`)
+
+EXTERNAL SOURCES:
+  BagRepository:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BagRepository: 32ba98563065c4806a25a9ac7b89d11ab2035016
+
+PODFILE CHECKSUM: 4e7e19dd7335fb27740258727515b1ffb04620d8
+
+COCOAPODS: 1.5.3
